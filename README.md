@@ -1,2 +1,0 @@
-# mySamplePortfolio
-Just my Portfolio.
